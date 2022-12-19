@@ -4,7 +4,7 @@
 
 -- create external stage
 create stage week_1_stage
-    url = s3://frostyfridaychallenges/challenge_1/;
+    url = 's3://frostyfridaychallenges/challenge_1/';
 
 -- check files in external stage
 list @week_1_stage;
