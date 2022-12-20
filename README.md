@@ -1,6 +1,7 @@
 # Frosty Friday
 
 A weekly challenge to practice and develop Snowflake skills
+
 https://frostyfriday.org/
 
 ## Weekly Challenges
