@@ -13,3 +13,6 @@ https://frostyfriday.org/
 - [Week 5 - Basic - UDFs](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_5_Basic_UDFs/Week%205%20%E2%80%93%20Basic%20-%20UDFs.sql)
 - [Week 6 - Intermediate - Geospatial](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_6_Hard_Geospatial/Week%206%20%E2%80%93%20Hard%20-%20Geospatial.sql)
 - [Week 7 - Basic - Tags & Account Usage](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_7_Intermediate_Tags_Account_Usage/Week%207%20%E2%80%93%20Intermediate%20-%20Tags%20Account%20Usage.sql)
+- Week 8
+- Week 9
+- [Week 10 - Hard - Stored Procedures](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_10_Hard_Stored_Procedures/Week%2010%20%E2%80%93%20Hard%20-%20Stored_Procedures.sql)
