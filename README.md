@@ -1,4 +1,4 @@
-# Frosty Friday
+# Frosty Friday :snowflake:
 
 A weekly challenge to practice and develop Snowflake skills.
 
