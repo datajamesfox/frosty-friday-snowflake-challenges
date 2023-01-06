@@ -1,10 +1,12 @@
 # Frosty Friday
 
-A weekly challenge to practice and develop Snowflake skills
+A weekly challenge to practice and develop Snowflake skills.
 
 https://frostyfriday.org/
 
-## Weekly Challenges
+View challenges on the Frosty Friday website. See links to my solutions below:
+
+## Weekly Challenge Solutions
 
 - [Week 1 - Basic - External Stages](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_1_Basic_External_Stages/Week%201%20%E2%80%93%20Basic%20-%20External%20Stages.sql)
 - [Week 2 - Intermediate - Streams](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_2_Intermediate_Streams/Week%202%20%E2%80%93%20Intermediate%20-%20Streams.sql)
@@ -28,3 +30,9 @@ https://frostyfriday.org/
 - Week 20 – Hard - Stored Procedures
 - Week 21 – Basic - Pivoting
 - Week 22 – Basic - RLS
+- Week 23 – Basic - SnowSQL
+- Week 24 – Intermediate - Snowpark & Streamlit
+- Week 25 – Basic - JSON
+- Week 26 – Intermediate - Tasks & Email
+- Week 27 – Basic - SELECT EXCLUDE & RENAME
+- Week 28 – Intermediate - Marketplace & Ranking
