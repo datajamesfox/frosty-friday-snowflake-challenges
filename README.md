@@ -8,13 +8,13 @@ View challenges on the Frosty Friday website. See links to my solutions below:
 
 ## Weekly Challenge Solutions
 
-- [Week 1 - Basic - External Stages](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_1_Basic_External_Stages/Week%201%20%E2%80%93%20Basic%20-%20External%20Stages.sql)
-- [Week 2 - Intermediate - Streams](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_2_Intermediate_Streams/Week%202%20%E2%80%93%20Intermediate%20-%20Streams.sql)
-- [Week 3 - Basic - Metadata Queries](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_3_Basic_Metadata_Queries/Week%203%20%E2%80%93%20Basic%20-%20Metadata%20Queries.sql)
-- [Week 4 - Hard - JSON](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_4_Hard_JSON/Week%204%20%E2%80%93%20Hard%20-%20JSON.sql)
-- [Week 5 - Basic - UDFs](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_5_Basic_UDFs/Week%205%20%E2%80%93%20Basic%20-%20UDFs.sql)
-- [Week 6 - Intermediate - Geospatial](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_6_Hard_Geospatial/Week%206%20%E2%80%93%20Hard%20-%20Geospatial.sql)
-- [Week 7 - Basic - Tags & Account Usage](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_7_Intermediate_Tags_Account_Usage/Week%207%20%E2%80%93%20Intermediate%20-%20Tags%20Account%20Usage.sql)
+- [Week 1 - Basic - External Stages](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_01_Basic_External_Stages/Week%201%20%E2%80%93%20Basic%20-%20External%20Stages.sql)
+- [Week 2 - Intermediate - Streams](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_02_Intermediate_Streams/Week%202%20%E2%80%93%20Intermediate%20-%20Streams.sql)
+- [Week 3 - Basic - Metadata Queries](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_03_Basic_Metadata_Queries/Week%203%20%E2%80%93%20Basic%20-%20Metadata%20Queries.sql)
+- [Week 4 - Hard - JSON](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_04_Hard_JSON/Week%204%20%E2%80%93%20Hard%20-%20JSON.sql)
+- [Week 5 - Basic - UDFs](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_05_Basic_UDFs/Week%205%20%E2%80%93%20Basic%20-%20UDFs.sql)
+- [Week 6 - Intermediate - Geospatial](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_06_Hard_Geospatial/Week%206%20%E2%80%93%20Hard%20-%20Geospatial.sql)
+- [Week 7 - Basic - Tags & Account Usage](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_07_Intermediate_Tags_Account_Usage/Week%207%20%E2%80%93%20Intermediate%20-%20Tags%20Account%20Usage.sql)
 - [Week 8 – Basic - Streamlit]
 - [Week 9 – Intermediate - Tags, Masking Policies](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_09_Intermediate_Tags_Masking_Policies/Week%209%20%E2%80%93%20Intermediate%20-%20Tags%20Masking%20Policies.sql)
 - [Week 10 - Hard - Stored Procedures](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_10_Hard_Stored_Procedures/Week%2010%20%E2%80%93%20Hard%20-%20Stored_Procedures.sql)
