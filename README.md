@@ -27,7 +27,7 @@ View challenges on the Frosty Friday website. See links to my solutions below:
 - [Week 17 – Intermediate - Spatial]
 - [Week 18 – Hard - Snowpark]
 - [Week 19 – Basic - Dates](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_19_Basic_Dates/Week%2019%20%E2%80%93%20Basic%20-%20Dates.sql)
-- [Week 20 – Hard - Stored Procedures]
+- [Week 20 – Hard - Stored Procedures](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_20_Hard_Stored_Procedures/Week%2020%20%E2%80%93%20Hard%20-%20Stored%20Procedures.sql)
 - [Week 21 – Basic - Pivoting](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_21_Basic_Pivoting/Week%2021%20%E2%80%93%20Basic%20-%20Pivoting.sql)
 - [Week 22 – Basic - RLS]
 - [Week 23 – Basic - SnowSQL](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_23_Basic_SnowSQL/Week%2023%20%E2%80%93%20Basic%20-%20SnowSQL.sql)
