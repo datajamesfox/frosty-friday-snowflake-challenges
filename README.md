@@ -9,8 +9,7 @@ View challenges on the Frosty Friday website. See links to my solutions below:
 ## Weekly Challenge Solutions
 
 Week | Difficulty | Name | URL
----|---|---|---:
-
+---|---|---|---
 Week 1 | Basic | External Stages | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_01.sql)
 Week 2 | Intermediate | Streams | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_02.sql)
 Week 3 | Basic | Metadata Queries | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_03.sql)
