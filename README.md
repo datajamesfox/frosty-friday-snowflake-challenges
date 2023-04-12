@@ -27,14 +27,26 @@ Week 14 | Basic | JSON | [Link](https://github.com/jameskalfox/frosty-friday-sno
 Week 15 | Intermediate | UDFs | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_15.sql)
 Week 16 | Intermediate | JSON | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_16.sql)
 Week 17 | Intermediate | Spatial | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_17.sql)
-Week 18 | Hard | Snowpark |
+Week 18 | Hard | Snowpark | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_18.ipynb)
 Week 19 | Basic | Dates | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_19.sql)
 Week 20 | Hard | Stored Procedures | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_20.sql)
 Week 21 | Basic | Pivoting | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_21.sql)
-Week 22 | Basic | RLS |
+Week 22 | Basic | RLS | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_22.sql)
 Week 23 | Basic | SnowSQL | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_23.sql)
 Week 24 | Intermediate | Snowpark & Streamlit |
 Week 25 | Basic | JSON | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_25.sql)
 Week 26 | Intermediate | Tasks & Email | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_26.sql)
 Week 27 | Basic | SELECT EXCLUDE & RENAME | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_27.sql)
 Week 28 | Intermediate | Marketplace & Ranking |
+Week 29 | | |
+Week 30 | | |
+Week 31 | | |
+Week 32 | Basic | Session Security | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_32.sql)
+Week 33 | | |
+Week 34 | | |
+Week 35 | | |
+Week 36 | | |
+Week 37 | | |
+Week 38 | | |
+Week 39 | Basic | CLS | [Link](https://github.com/jameskalfox/frosty-friday-snowflake-challenges/blob/main/Week_39.sql)
+Week 40 | | |
