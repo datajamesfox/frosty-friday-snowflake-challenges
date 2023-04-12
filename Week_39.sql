@@ -1,4 +1,4 @@
-// Setup code
+-- Setup code
 create or replace table customer_deets (
     id int,
     name string,
@@ -11,7 +11,7 @@ insert into customer_deets values
     (3, 'Spring Hall', 'hall.yay@gmail.com'),
     (4, 'Dr Holly Ray', 'drdr@yahoo.com');
 
-// Create masking policy
+-- Create masking policy
 create or replace masking policy email_mask as (email string) 
 returns string ->
     CASE 
@@ -19,5 +19,5 @@ returns string ->
         ELSE REGEXP_REPLACE(email, '(.*)@', '****@')
     END;
 
-// Apply masking policy
+-- Apply masking policy
 alter table customer_deets modify column email set masking policy email_mask;
